@@ -1,0 +1,121 @@
+html{
+	background-color:green;
+}
+h1{
+	color: white;
+    font-size: 70px;
+    text-align: center;
+	font-family: Edwardian Script ITC;
+	margin-top: 0px;
+	margin-bottom:0px;
+}
+h2{
+	color:white;
+	font-size: 25px;
+	margin-left:850px;
+	font-family: Edwardian Script ITC;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+	font-family:arial;
+}
+nav{
+	text-align:center;
+	color:white;
+}
+
+#conteudo {
+	padding:5px;
+	background-color:white;
+	width:700px;
+	height:400px;
+	margin-top:15px;
+	margin-right:300px;
+	margin-left:300px;
+	text-align:center;
+	border-radius:0px 0px 20px 20px;
+}
+
+table{	
+	text-align:center;
+	margin: 0 auto;
+	border: solid 5px white;	
+}
+th{
+	background-color:LimeGreen;
+	color:black;
+
+}
+td{
+	background-color:rgb(215,215,215);
+	color:black;
+}
+img{
+	margin-top:0 px;
+	margin-left:500px;
+}
+
+.caixa{
+	width:200px;
+	height:30px;
+	border-radius:10px;
+	background-color:rgb(215,215,215);;
+}
+legend{
+	margin-right: 350px;
+    padding: 10px;
+	font-family:arial;
+}
+.botao_submit{
+	background-color:green;
+	width:120px;
+	height:30px;
+	border-radius:10px;
+	color:black;
+	font-family:arial;
+}
+.botao_reset{
+	background-color:rgb(215,215,215);
+	width:120px;
+	height:30px;
+	border-radius:10px;
+	color:black;
+	font-family:arial;
+}
+p{
+	font-family:arial;
+}
+.acao{
+	color:black;
+}
+#presidente{
+	padding:5px;
+	background-color:white;
+	width:700px;
+	height:200px;
+	margin-top:15px;
+	margin-right:300px;
+	margin-left:300px;
+	text-align:center;
+	border-radius:0px 0px 20px 20px;
+}
+#lista{
+	padding:5px;
+	background-color:white;
+	width:700px;
+	height:230px;
+	margin-top:15px;
+	margin-right:300px;
+	margin-left:300px;
+	text-align:center;
+	border-radius:0px 0px 20px 20px;
+}
+h3{
+	color:green;
+}
+
+
+
+
