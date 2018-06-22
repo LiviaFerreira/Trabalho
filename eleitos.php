@@ -67,7 +67,7 @@
 	echo "<table>									
 							<tr>
 								<th>Governador do estado</th>
-								<th>Estado/Sigla</th>					
+								<th>Estado</th>					
 							</tr>";
 							
 	foreach($estado as $e){	
@@ -106,7 +106,7 @@
 									<table>									
 										<tr>
 											<th>Deputado Federal</th>
-											<th>Estado/Sigla</th>					
+											<th>Estado</th>					
 										</tr>								
 		";
 
@@ -149,7 +149,7 @@
 									<table>									
 										<tr>
 											<th>Deputado Estadual</th>
-											<th>Sigla</th>					
+											<th>Estado</th>					
 										</tr>								
 							";
 	foreach($estado as $e){	
@@ -189,7 +189,7 @@
 									<table>									
 										<tr>
 											<th>Senador</th>
-											<th>Estado/Sigla</th>					
+											<th>Estado</th>					
 										</tr>								
 							";
 	foreach($estado as $e){	
